@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="reservation@localhost" uuid="c859fe03-bc08-4ac5-a4c4-5af0ec8479c4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/reservation</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="flights@localhost" uuid="a3b4909b-9da9-49f4-87fe-b93567e37193">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/flights</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="events@localhost" uuid="9db6d577-f410-447d-b703-5ac173eb04c3">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/events</jdbc-url>
+    </data-source>
+  </component>
+</project>
